@@ -1,0 +1,2 @@
+# server-monitoring
+this project aims to implement a server monitoring tool. A web solution based on the .NET Framework and a mobile solution based on the Framework Cordova This Application will allow administrators to intervene in proactive mode to minimize server downtime and historicize all tasks carried out by supervisors Keywords: Cordova, WCF, Monitoring, Two Factor Authentication, Cross platform, QRcode
