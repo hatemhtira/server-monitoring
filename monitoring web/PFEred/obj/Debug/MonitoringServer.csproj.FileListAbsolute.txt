@@ -1,0 +1,78 @@
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\PFEred.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\AjaxControlToolkit.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\SanitizerProviders.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\AjaxControlToolkit.pdb
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\obj\Debug\MonitoringServer.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Desktop\final 4\final 2\projet fin d etude - Copie\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\PFEred.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\AjaxControlToolkit.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\SanitizerProviders.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\AjaxControlToolkit.pdb
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\obj\Debug\MonitoringServer.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Desktop\compte rendu pfe\monitoring web\PFEred\obj\Debug\PFEred.pdb

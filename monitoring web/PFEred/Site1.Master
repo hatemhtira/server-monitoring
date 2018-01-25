@@ -1,0 +1,484 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.Master.cs" Inherits="PFEred.Site1testestes" %>
+
+<%@ Import Namespace="System.Data" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/animate.min.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="css/form.css" rel="stylesheet" />
+    <link href="css/calendar.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/icons.css" rel="stylesheet" />
+    <link href="css/generics.css" rel="stylesheet" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style>
+        <style type="text/css" > a[disabled="disabled"] {
+            pointer-events: none;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="myContainer">
+            <%--<input type="hidden"  id="aka"     runat="server"/>--%>
+
+            <asp:HiddenField ID="gauge1" runat="server" />
+            <asp:HiddenField ID="gauge2" runat="server" />
+            <asp:HiddenField ID="gauge3" runat="server" />
+            <asp:HiddenField ID="gauge4" runat="server" />
+            <asp:HiddenField ID="x1" runat="server" />
+            <asp:HiddenField ID="y1" runat="server" />
+            <asp:HiddenField ID="x2" runat="server" />
+            <asp:HiddenField ID="y2" runat="server" />
+            <asp:HiddenField ID="x3" runat="server" />
+            <asp:HiddenField ID="y3" runat="server" />
+            <asp:HiddenField ID="x4" runat="server" />
+            <asp:HiddenField ID="y4" runat="server" />
+            <asp:HiddenField ID="x5" runat="server" />
+            <asp:HiddenField ID="y5" runat="server" />
+         <%--    <asp:HiddenField ID="ram" runat="server" />
+            <asp:HiddenField ID="cpu" runat="server" />
+            <asp:HiddenField ID="ds1" runat="server" />
+            <asp:HiddenField ID="ds2" runat="server" />--%>
+        </div>
+
+        <div>
+            <header id="header" class="media">
+                <a href="#" id="menu-toggle"></a>
+                <a class="logo pull-left">Banque de Tunisie</a>
+
+                <div class="media-body">
+                    <div class="media" id="top-menu">
+                        <div class="pull-left tm-icon">
+                            <a data-drawer="messages" class="drawer-toggle" href="#">
+                                <i class="sa-top-message"></i>
+                                <i class="n-count animated"><%= log.Tables[0].Rows.Count %></i>
+                                <span>Messages</span>
+                            </a>
+                        </div>
+                        <div class="pull-left tm-icon">
+                            <a data-drawer="notifications" class="drawer-toggle" data-toggle="modal" href="#modalWider">
+                                <i class="sa-top-updates"></i>
+
+                                <span>Intervenir</span>
+                            </a>
+                        </div>
+                        <div id="time" class="pull-right">
+                            <span id="hours"></span>
+                            :
+                        <span id="min"></span>
+                            :
+                        <span id="sec"></span>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="clearfix"></div>
+
+            <section id="main" class="p-relative" role="main">
+
+                <!-- Sidebar -->
+                <aside id="sidebar">
+
+                    <!-- Sidbar Widgets -->
+                    <div class="side-widgets overflow">
+                        <!-- Profile Menu -->
+                        <div class="text-center s-widget m-b-25 dropdown" id="profile-menu">
+                            <a data-toggle="dropdown" href="#ff">
+                                <img class="profile-pic animated" src="img/bt2.png" alt="" />
+                            </a>
+                            <ul class="dropdown-menu profile-menu">
+                                <li><a href="#">Settings</a> <i class="icon left">&#61903;</i><i class="icon right">&#61815;</i></li>
+                                <li>
+                                    <asp:LinkButton runat="server" ID="logout" OnClick="logout_Click">Sign Out</asp:LinkButton>
+                                    <i class="icon left">&#61903;</i><i class="icon right">&#61815;</i></li>
+
+                            </ul>
+
+
+                            <h4 class="m-0"><%=NP %></h4>
+
+                        </div>
+
+                        <!-- Calendar -->
+                        <div class="s-widget m-b-25">
+                            <div id="sidebar-calendar"></div>
+                        </div>
+
+
+
+                    </div>
+
+                    <!-- Side Menu -->
+                    <ul class="list-unstyled side-menu">
+                        <li>
+                            <asp:LinkButton runat="server" ID="aAccuei" class="sa-side-home" Visible="false" href="Accueil.aspx">
+                            <span class="menu-item">Home</span>
+                            </asp:LinkButton>
+                        </li>
+                        <li>
+                            <asp:LinkButton runat="server" ID="aDashboardServer" class="sa-side-page" Visible="false">
+                            <span class="menu-item">Dashboard</span>
+                            </asp:LinkButton>
+                            <ul class="list-unstyled menu-item" id="sub" runat="server">
+                            </ul>
+                        </li>
+                        <li>
+                            <asp:LinkButton runat="server" ID="aLog" class="sa-side-shapes" href="consulterLog.aspx" Visible="false">
+                            <span class="menu-item">View History</span>
+                            </asp:LinkButton>
+                        </li>
+
+                        <li class="dropdown">
+                            <asp:LinkButton runat="server" ID="aGestionEmploye" class="sa-side-interface" Visible="false">
+                            <span class="menu-item">Manage Employees</span>
+                            </asp:LinkButton>
+                            <ul class="list-unstyled menu-item">
+                                <li><a href="consulterEmployee.aspx">Employees List</a></li>
+                                <li><a href="AssignerPrivilege.aspx">Assign Privilege</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <asp:LinkButton runat="server" ID="aServeur" class="sa-side-chart" Visible="false">
+                            <span class="menu-item">Servers</span>
+                            </asp:LinkButton>
+                            <ul class="list-unstyled menu-item">
+
+                                <li>
+                                    <asp:LinkButton runat="server" ID="aConsulterServeur" href="consulterServeur.aspx" Visible="false">Servers List</asp:LinkButton></li>
+                                <li>
+                                    <asp:LinkButton runat="server" ID="aAjoutServeur" data-toggle="modal" href="#form-modalServeur" Visible="false">Add Server</asp:LinkButton></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <asp:LinkButton runat="server" ID="aService" class="sa-side-service" Visible="false">
+                            <span class="menu-item">service</span>
+                            </asp:LinkButton>
+                            <ul class="list-unstyled menu-item" id="subService" runat="server">
+                                <li>
+                                    <asp:LinkButton runat="server" ID="aConsulterLesService" href="consulterService.aspx" Visible="false">Services List</asp:LinkButton></li>
+                                <li>
+                                    <asp:LinkButton runat="server" ID="aAjoutService" data-toggle="modal" href="#form-modalService" Visible="false">Add Service</asp:LinkButton></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <asp:LinkButton runat="server" ID="aMonitoring" class="sa-side-ui" Visible="false">
+                            <span class="menu-item">Monitoring</span>
+                            </asp:LinkButton>
+                            <ul class="list-unstyled menu-item" id="subMonitor" runat="server">
+                                <li>
+                                    <asp:LinkButton runat="server" ID="aconsulterMonitoring" href="consulterMonitoring.aspx" Visible="false">Monitoring Table</asp:LinkButton></li>
+
+
+                            </ul>
+                        </li>
+                           <li>
+                            <asp:LinkButton runat="server" ID="aConsulterMochard" class="sa-side-screen" href="ConsulterMochard.aspx" Visible="false">
+                            <span class="menu-item">consulter mochard</span>
+                            </asp:LinkButton>
+                        </li>
+                         <li>
+                            <asp:LinkButton runat="server" ID="aConsulterIntervantion" class="sa-side-inter" href="ConsulterIntervantion.aspx" Visible="false">
+                            <span class="menu-item">consulter intervantion</span>
+                            </asp:LinkButton>
+                        </li>
+                        <li class="dropdown">
+                            <a class="sa-side-photos">
+                                <span class="menu-item">extras</span>
+                            </a>
+                            <ul class="list-unstyled menu-item">
+
+                                <li>
+                                    <asp:LinkButton runat="server" href="Extras.aspx">Ping-Port-IP</asp:LinkButton></li>
+                            </ul>
+                        </li>
+
+
+                        <li>
+                            <asp:LinkButton runat="server" class="sa-side-calendar" href="calender.aspx">
+                            <span class="menu-item">Calendar</span>
+                            </asp:LinkButton>
+                        </li>
+
+                    </ul>
+
+                </aside>
+
+                <!-- Content -->
+                <section id="content" class="container">
+
+                    <!-- Messages Drawer -->
+                    <div id="messages" class="tile drawer animated">
+                        <div class="listview narrow">
+
+                            <div class="overflow" style="height: 254px">
+
+                                <% foreach (DataRow pRow in log.Tables["lloogg"].Rows) %>
+                                <%{ %>
+                                <div class="media">
+                                    <div class="media-body">
+                                        <small class="text-muted">IDScan:<% = pRow["idscan"] %> &nbsp;&nbsp;&nbsp;&nbsp;CodeServeur:<% = pRow["CodeServeur"] %>&nbsp;&nbsp;&nbsp;&nbsp;CodeService:<% = pRow["CodeService"] %>&nbsp;&nbsp;&nbsp;&nbsp;Temps:<% = pRow["Temps"] %> </small>
+                                        <br />
+                                        <a class="t-overflow" href="#">&nbsp;&nbsp;<% = pRow["Messagelog"] %></a>
+
+                                    </div>
+                                </div>
+                                <%} %>
+                            </div>
+                            <div class="media text-center whiter l-100">
+                                <a href="consulterLog.aspx"><small>VIEW ALL</small></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <asp:ContentPlaceHolder ID="contenu" runat="server">
+                    </asp:ContentPlaceHolder>
+
+
+                </section>
+            </section>
+        </div>
+
+
+
+
+        <div class="modal fade" id="form-modalServeur" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Add Server</h4>
+                    </div>
+                    <div class="modal-body">
+
+
+                        <div class="form-group">
+                            <label for="inputName4" class="col-md-2 control-label">Server Name</label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control input-sm" id="txtNom" runat="server" placeholder="name" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputEmail4" class="col-md-2 control-label">Adress</label>
+                            <div class="col-md-9">
+                                <asp:TextBox class="form-control input-sm" ID="txAdress" runat="server" placeholder="Adress" />
+                            </div>
+                            <asp:Label runat="server" ID="lblogo" Text="" />
+                        </div>
+                        <div class="form-group">
+                            <label for="inputMessage3" class="col-md-2 control-label">Login</label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control input-sm" id="txtlogin" runat="server" placeholder="login" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputMessage3" class="col-md-2 control-label">Password</label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control input-sm" id="txtpwd" runat="server" placeholder="password" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <asp:Button class="btn btn-sm btn-alt" ID="btnAjout" OnClick="btnAjout_Click" runat="server" Text="Save changes" />
+                        <button type="button" class="btn btn-sm btn-alt" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal Wider -->
+        <div class="modal fade" id="modalWider" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Modal title</h4>
+                    </div>
+
+                    
+
+                    <div class="form-group">
+                        <label for="inputName4" class="col-md-2 control-label">problem</label>
+                        <div class="col-md-9">
+
+                            <asp:TextBox runat="server" ID="txtProblem" placeholder="" TextMode="MultiLine" Rows="1" Columns="50" class="form-control input-sm"></asp:TextBox>
+
+                        </div>
+                    </div>
+                     <div class="form-group">
+                        <label for="inputName4" class="col-md-2 control-label">intervention</label>
+                        <div class="col-md-9">
+
+                            <asp:TextBox runat="server" ID="TxtInter" placeholder="" TextMode="MultiLine" Rows="5" Columns="50" class="form-control input-sm"></asp:TextBox>
+
+                        </div>
+                    </div>
+                     <div class="form-group">
+                        <label for="inputName4" class="col-md-2 control-label">serveur</label>
+                           <div class="col-md-9">
+
+                        <asp:DropDownList ID="DropDownServeur" runat="server" AppendDataBoundItems="True" class="form-control input-sm"
+                            DataSourceID="SqlDataSource2" DataTextField="tt" DataValueField="CodeServeur">
+                            
+                        </asp:DropDownList>
+                    </div>
+                    </div>
+
+                 
+                    <div class="modal-footer">
+                        <asp:Button class="btn btn-sm btn-alt" ID="BtnInter" OnClick="BtnInter_Click" runat="server" Text="Save changes" />
+                        <button type="button" class="btn btn-sm" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <asp:SqlDataSource ID="SqlDataSource2" runat="server"
+            ConnectionString="<%$ ConnectionStrings:Test %>"
+            SelectCommand=" SELECT DISTINCT Serveur.CodeServeur,CONCAT(Serveur.CodeServeur, ': ', nom)  as tt  FROM [serveur] ,[Droit] where Serveur.CodeServeur=Droit.codeServeur and droit.userId=@id;">
+           
+            
+            
+           <%--  <SelectParameters >
+                <asp:ControlParameter Name="id" type="Int64"  DefaultValue="<%=id %>"    ControlID="DropDownServeur" />
+            </SelectParameters>--%>
+           
+
+        </asp:SqlDataSource>
+        
+
+       
+        <div class="modal fade" id="form-modalService" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Add Service</h4>
+                    </div>
+                    <div class="modal-body">
+                        <label>Fields with (*) must be filled with coherent data :</label>
+                        <div class="form-group">
+                            <label for="inputName4" class="col-md-2 control-label">Type(*)</label>
+                            <div class="col-md-9">
+                                <asp:DropDownList ID="DdlType" AppendDataBoundItems="true" runat="server" class="form-control input-sm">
+                                    <asp:ListItem Text="url" Value="url" />
+                                    <asp:ListItem Text="ping" Value="ping" />
+                                    <asp:ListItem Text="port" Value="port" />
+                                    <asp:ListItem Text="sql" Value="sql" />
+                                    <asp:ListItem Text="mail" Value="mail" />
+                                </asp:DropDownList>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="inputName4" class="col-md-2 control-label">Operation1(*)</label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control input-sm" id="txtOp1" runat="server" placeholder="operation1" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputEmail4" class="col-md-2 control-label">Operation2</label>
+                            <div class="col-md-9">
+                                <asp:TextBox class="form-control input-sm" ID="TxtOp2" runat="server" placeholder="operation2" />
+                            </div>
+                            <asp:Label runat="server" ID="Label1" Text="" />
+                        </div>
+                        <div class="form-group">
+                            <label for="inputMessage3" class="col-md-2 control-label">Result(*)</label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control input-sm" id="txtres" runat="server" placeholder="resultat attendu" />
+                            </div>
+                        </div>
+                        <br />
+                        <br />
+                        <label>- Operation1:-SQL Request,-URL Adress,-Mail Transfer Protocol</label>
+                        <br />
+                        <label>- Operation2:-Port Number if Type is Port</label>
+                    </div>
+                    
+                    <div class="modal-footer" >
+                        <asp:Button class="btn btn-sm btn-alt" ID="BtnAjoutService" OnClick="BtnAjoutService_Click" runat="server" Text="Save changes" />
+                        <button type="button" class="btn btn-sm btn-alt" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+
+    </form>
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!-- jQuery Library -->
+
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!--  Form Related -->
+    <script src="js/select.min.js"></script>
+    <!-- Custom Select -->
+    <script src="js/icheck.js"></script>
+    <!-- Custom Checkbox + Radio -->
+    <script src="js/fileupload.min.js"></script>
+    <!-- File Upload -->
+    <script src="js/autosize.min.js"></script>
+    <!-- Textare autosize -->
+
+    <script src="js/sparkline.min.js"></script>
+    <!-- Sparkline - Tiny charts -->
+    <script src="js/easypiechart.js"></script>
+    <!-- EasyPieChart - Animated Pie Charts -->
+    <script src="js/charts.js"></script>
+    <!-- All the above chart related functions -->
+    <script src="js/chartsAccueil.js"></script>
+    <!-- All the above chart related functions -->
+    <!-- Charts -->
+    <script src="js/charts/jquery.flot.js"></script>
+    <!-- Flot Main -->
+    <script src="js/charts/jquery.flot.time.js"></script>
+    <!-- Flot sub -->
+    <script src="js/charts/jquery.flot.animator.min.js"></script>
+    <!-- Flot sub -->
+    <script src="js/charts/jquery.flot.resize.min.js"></script>
+    <!-- Flot sub - for repaint when resizing the screen -->
+    <script src="js/jquery-ui.min.js"></script>
+    <!-- jQuery UI -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- jQuery Easing - Requirred for Lightbox + Pie Charts-->
+
+    <script src="js/sparkline.min.js"></script>
+    <!-- Sparkline - Tiny charts -->
+    <script src="js/easypiechart.js"></script>
+    <!-- EasyPieChart - Animated Pie Charts -->
+    <script src="js/charts.js"></script>
+    <!-- All the above chart related functions -->
+    <script src="js/chartsAccueil.js"></script>
+    <!-- All the above chart related functions -->
+    <!-- UX -->
+    <script src="js/scroll.min.js"></script>
+    <!-- Custom Scrollbar -->
+
+    <!-- Other -->
+    <script src="js/calendar.min.js"></script>
+    <!-- Calendar -->
+    <script src="js/feeds.min.js"></script>
+    <!-- News Feeds -->
+
+
+    <!-- All JS functions -->
+    <script src="js/functions.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,325 @@
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\PFEred\PFEred\obj\Debug\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\csc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\vbc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\PFEred.dll.config
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\obj\Debug\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred hidden 0.2\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  0.3\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.1 Ajout Serveur\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.2 consult_log\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.3 confirmer inscription\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  1.4 BD\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\csc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\vbc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\PFEred.dll.config
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\obj\Debug\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\obj\Debug\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred\PFEred  1.5 noyau\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\QRCoder.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Documents\Visual Studio 2015\Projects\pfeRed les Version\PFEred  2.0\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\csc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\vbc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\PFEred.dll.config
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\obj\Debug\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred\PFE red+WebService\PFEred  2.0\PFEred\obj\Debug\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\csc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\vbc.exe
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll.config
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\PFEred.pdb
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.dll
+C:\Users\aymen94\Desktop\PFE\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\csc.exe
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\vbc.exe
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll.config
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\PFEred.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.dll
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2015\Projects\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Desktop\final 3\final 2\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\csc.exe
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\vbc.exe
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll.config
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\PFEred.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\PFEred.pdb
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.pdb
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\AjaxControlToolkit.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\SanitizerProviders.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\AjaxControlToolkit.pdb
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\hatem\Desktop\final 4\final 2\PFEred  2.1 Privilege\PFEred\obj\Debug\PFEred.csprojResolveAssemblyReference.cache
