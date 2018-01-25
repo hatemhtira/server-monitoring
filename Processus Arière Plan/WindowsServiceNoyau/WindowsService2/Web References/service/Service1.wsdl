@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:14782/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_ValidOTP_InputMessage">
+    <wsdl:part name="parameters" element="tns:ValidOTP" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ValidOTP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ValidOTPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StatService_InputMessage">
+    <wsdl:part name="parameters" element="tns:StatService" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StatService_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StatServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ConsulterAlert_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsulterAlert" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ConsulterAlert_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsulterAlertResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_LastScans_InputMessage">
+    <wsdl:part name="parameters" element="tns:LastScans" />
+  </wsdl:message>
+  <wsdl:message name="IService1_LastScans_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LastScansResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StatAdmin_InputMessage">
+    <wsdl:part name="parameters" element="tns:StatAdmin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StatAdmin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StatAdminResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StatServeur_InputMessage">
+    <wsdl:part name="parameters" element="tns:StatServeur" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StatServeur_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StatServeurResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_idscanmax_InputMessage">
+    <wsdl:part name="parameters" element="tns:idscanmax" />
+  </wsdl:message>
+  <wsdl:message name="IService1_idscanmax_OutputMessage">
+    <wsdl:part name="parameters" element="tns:idscanmaxResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_inscription_InputMessage">
+    <wsdl:part name="parameters" element="tns:inscription" />
+  </wsdl:message>
+  <wsdl:message name="IService1_inscription_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inscriptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_rechPSK_InputMessage">
+    <wsdl:part name="parameters" element="tns:rechPSK" />
+  </wsdl:message>
+  <wsdl:message name="IService1_rechPSK_OutputMessage">
+    <wsdl:part name="parameters" element="tns:rechPSKResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcflog_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcflog" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcflog_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcflogResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_noyau_InputMessage">
+    <wsdl:part name="parameters" element="tns:noyau" />
+  </wsdl:message>
+  <wsdl:message name="IService1_noyau_OutputMessage">
+    <wsdl:part name="parameters" element="tns:noyauResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Timer_InputMessage">
+    <wsdl:part name="parameters" element="tns:Timer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Timer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ping_InputMessage">
+    <wsdl:part name="parameters" element="tns:ping" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ping_OutputMessage">
+    <wsdl:part name="parameters" element="tns:pingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfMailSmtp_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcfMailSmtp" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfMailSmtp_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcfMailSmtpResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfSql_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcfSql" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfSql_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcfSqlResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfMailSent_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcfMailSent" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfMailSent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcfMailSentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfUrl_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcfUrl" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfUrl_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcfUrlResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfService_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcfService" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfService_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcfServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfport_InputMessage">
+    <wsdl:part name="parameters" element="tns:wcfport" />
+  </wsdl:message>
+  <wsdl:message name="IService1_wcfport_OutputMessage">
+    <wsdl:part name="parameters" element="tns:wcfportResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="ValidOTP">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/ValidOTP" message="tns:IService1_ValidOTP_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/ValidOTPResponse" message="tns:IService1_ValidOTP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StatService">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/StatService" message="tns:IService1_StatService_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/StatServiceResponse" message="tns:IService1_StatService_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsulterAlert">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/ConsulterAlert" message="tns:IService1_ConsulterAlert_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/ConsulterAlertResponse" message="tns:IService1_ConsulterAlert_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LastScans">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/LastScans" message="tns:IService1_LastScans_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/LastScansResponse" message="tns:IService1_LastScans_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StatAdmin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/StatAdmin" message="tns:IService1_StatAdmin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/StatAdminResponse" message="tns:IService1_StatAdmin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StatServeur">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/StatServeur" message="tns:IService1_StatServeur_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/StatServeurResponse" message="tns:IService1_StatServeur_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="idscanmax">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/idscanmax" message="tns:IService1_idscanmax_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/idscanmaxResponse" message="tns:IService1_idscanmax_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inscription">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/inscription" message="tns:IService1_inscription_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/inscriptionResponse" message="tns:IService1_inscription_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="rechPSK">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/rechPSK" message="tns:IService1_rechPSK_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/rechPSKResponse" message="tns:IService1_rechPSK_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcflog">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcflog" message="tns:IService1_wcflog_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcflogResponse" message="tns:IService1_wcflog_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="noyau">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/noyau" message="tns:IService1_noyau_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/noyauResponse" message="tns:IService1_noyau_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Timer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Timer" message="tns:IService1_Timer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/TimerResponse" message="tns:IService1_Timer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ping">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/ping" message="tns:IService1_ping_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/pingResponse" message="tns:IService1_ping_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcfMailSmtp">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcfMailSmtp" message="tns:IService1_wcfMailSmtp_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcfMailSmtpResponse" message="tns:IService1_wcfMailSmtp_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcfSql">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcfSql" message="tns:IService1_wcfSql_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcfSqlResponse" message="tns:IService1_wcfSql_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcfMailSent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcfMailSent" message="tns:IService1_wcfMailSent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcfMailSentResponse" message="tns:IService1_wcfMailSent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcfUrl">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcfUrl" message="tns:IService1_wcfUrl_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcfUrlResponse" message="tns:IService1_wcfUrl_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcfService">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcfService" message="tns:IService1_wcfService_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcfServiceResponse" message="tns:IService1_wcfService_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="wcfport">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/wcfport" message="tns:IService1_wcfport_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/wcfportResponse" message="tns:IService1_wcfport_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidOTP">
+      <soap:operation soapAction="http://tempuri.org/IService1/ValidOTP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StatService">
+      <soap:operation soapAction="http://tempuri.org/IService1/StatService" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsulterAlert">
+      <soap:operation soapAction="http://tempuri.org/IService1/ConsulterAlert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LastScans">
+      <soap:operation soapAction="http://tempuri.org/IService1/LastScans" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StatAdmin">
+      <soap:operation soapAction="http://tempuri.org/IService1/StatAdmin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StatServeur">
+      <soap:operation soapAction="http://tempuri.org/IService1/StatServeur" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="idscanmax">
+      <soap:operation soapAction="http://tempuri.org/IService1/idscanmax" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inscription">
+      <soap:operation soapAction="http://tempuri.org/IService1/inscription" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="rechPSK">
+      <soap:operation soapAction="http://tempuri.org/IService1/rechPSK" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcflog">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcflog" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="noyau">
+      <soap:operation soapAction="http://tempuri.org/IService1/noyau" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Timer">
+      <soap:operation soapAction="http://tempuri.org/IService1/Timer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ping">
+      <soap:operation soapAction="http://tempuri.org/IService1/ping" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcfMailSmtp">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcfMailSmtp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcfSql">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcfSql" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcfMailSent">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcfMailSent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcfUrl">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcfUrl" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcfService">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcfService" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wcfport">
+      <soap:operation soapAction="http://tempuri.org/IService1/wcfport" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:14782/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

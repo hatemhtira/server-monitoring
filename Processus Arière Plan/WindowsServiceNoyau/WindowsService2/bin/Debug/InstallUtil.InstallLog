@@ -1,0 +1,150 @@
+﻿
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le nom de compte n’est pas valide ou n’existe pas, ou le mot de passe n’est pas valide pour le nom de compte spécifié
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase d'installation est terminée et la phase de validation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de validation est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Le fichier se trouve à C:\Users\hatem\Documents\Visual Studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.

@@ -1,0 +1,6 @@
+C:\Users\hatem\Desktop\RAM\RAM\bin\Debug\RAM.exe.config
+C:\Users\hatem\Desktop\RAM\RAM\bin\Debug\RAM.exe
+C:\Users\hatem\Desktop\RAM\RAM\bin\Debug\RAM.pdb
+C:\Users\hatem\Desktop\RAM\RAM\obj\Debug\RessourcePhysique.csprojResolveAssemblyReference.cache
+C:\Users\hatem\Desktop\RAM\RAM\obj\Debug\RAM.exe
+C:\Users\hatem\Desktop\RAM\RAM\obj\Debug\RAM.pdb

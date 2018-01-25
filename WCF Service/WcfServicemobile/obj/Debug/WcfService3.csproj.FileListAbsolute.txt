@@ -1,0 +1,29 @@
+c:\users\digitalnet\documents\visual studio 2012\Projects\WcfService3\bin\WcfService3.dll
+c:\users\digitalnet\documents\visual studio 2012\Projects\WcfService3\bin\WcfService3.pdb
+c:\users\digitalnet\documents\visual studio 2012\Projects\WcfService3\obj\Debug\WcfService3.csprojResolveAssemblyReference.cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\WcfService3\obj\Debug\WcfService3.dll
+c:\users\digitalnet\documents\visual studio 2012\Projects\WcfService3\obj\Debug\WcfService3.pdb
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\WcfService3.dll.config
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\WcfService3.dll
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\WcfService3.pdb
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\obj\Debug\WcfService3.dll
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\obj\Debug\WcfService3.pdb
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\Newtonsoft.Json.dll
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\Newtonsoft.Json.xml
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\QRCoder.dll
+C:\inetpub\wwwroot\WcfService3\bin\WcfService3.dll.config
+C:\inetpub\wwwroot\WcfService3\bin\WcfService3.dll
+C:\inetpub\wwwroot\WcfService3\bin\WcfService3.pdb
+C:\inetpub\wwwroot\WcfService3\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\WcfService3\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\WcfService3\obj\Debug\WcfService3.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\WcfService3\obj\Debug\WcfService3.dll
+C:\inetpub\wwwroot\WcfService3\obj\Debug\WcfService3.pdb
+C:\inetpub\wwwroot\WcfService33\bin\WcfService3.dll.config
+C:\inetpub\wwwroot\WcfService33\bin\WcfService3.dll
+C:\inetpub\wwwroot\WcfService33\bin\WcfService3.pdb
+C:\inetpub\wwwroot\WcfService33\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\WcfService33\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\WcfService33\obj\Debug\WcfService3.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\WcfService33\obj\Debug\WcfService3.dll
+C:\inetpub\wwwroot\WcfService33\obj\Debug\WcfService3.pdb

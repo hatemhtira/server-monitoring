@@ -1,0 +1,11 @@
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsServiceNoyau.csprojResolveAssemblyReference.cache
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsServiceNoyau.csproj.GenerateResource.Cache
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\hatem\documents\visual studio 2015\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
+C:\Users\hatem\Desktop\compte rendu pfe\WindowsServiceNoyau\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\hatem\Desktop\compte rendu pfe\WindowsServiceNoyau\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\hatem\Desktop\compte rendu pfe\WindowsServiceNoyau\WindowsService2\obj\Debug\WindowsService2.pdb

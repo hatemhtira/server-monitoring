@@ -1,0 +1,11 @@
+C:\Users\DigitalNet\documents\visual studio 2012\Projects\WcfService3\bin\WcfService3.dll
+C:\Users\DigitalNet\documents\visual studio 2012\Projects\WcfService3\bin\WcfService3.pdb
+C:\Users\DigitalNet\documents\visual studio 2012\Projects\WcfService3\obj\Release\WcfService3.csprojResolveAssemblyReference.cache
+C:\Users\DigitalNet\documents\visual studio 2012\Projects\WcfService3\obj\Release\WcfService3.dll
+C:\Users\DigitalNet\documents\visual studio 2012\Projects\WcfService3\obj\Release\WcfService3.pdb
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\WcfService3.dll.config
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\WcfService3.dll
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\bin\WcfService3.pdb
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\obj\Release\WcfService3.csprojResolveAssemblyReference.cache
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\obj\Release\WcfService3.dll
+C:\Users\aymen94\Downloads\Compressed\WcfService3\WcfService3\obj\Release\WcfService3.pdb
